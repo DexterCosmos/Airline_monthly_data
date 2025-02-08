@@ -1,25 +1,21 @@
-<h1 align="center">Project Title</h1>
-
-<p align="center">
-  <img src="path/to/logo.png" alt="Project Logo" width="200" height="200">
-</p>
+<h1 align="center">Airline Data Analysis Project</h1>
 
 ## Description
 
-This project is designed to [brief description of the project]. It aims to [project goals and objectives].
+This project involves comprehensive analysis of airline data, including airfare, departure, destination, source, date, time, and various other attributes. The primary objective is to derive meaningful insights and trends from the dataset to inform decisions and strategies in the airline industry.
 
 ## Dashboard
 
-The dashboard provides an overview of [what the dashboard shows]. Below are some screenshots of the dashboard:
+The dashboard provides an overview of key metrics and trends in the airline data. Below are some screenshots of the dashboard:
 
 <p align="center">
-  <img src="images/Dashboard1.png" alt="Dashboard 1" width="400" height="300">
-  <img src="images/Dashboard2.png" alt="Dashboard 2" width="400" height="300">
+  <img src="images/Dashboard1.png" alt="Dashboard Screenshot 1" width="400" height="300">
+  <img src="images/Dashboard2.png" alt="Dashboard Screenshot 2" width="400" height="300">
 </p>
 
 ## Visualization
 
-The visualization section includes various charts and graphs that illustrate [what the visualizations show]. Below are some examples:
+The visualization section includes various charts and graphs that illustrate significant patterns and insights from the airline data. Below are some examples:
 
 <p align="center">
   <img src="images/project1.png" alt="Visualization 1" width="400" height="300">
@@ -34,7 +30,9 @@ The visualization section includes various charts and graphs that illustrate [wh
 ## Tools Utilized
 
 The following tools were utilized in this project:
-- Tool 1: [Description of Tool 1]
-- Tool 2: [Description of Tool 2]
-- Tool 3: [Description of Tool 3]
-- Tool 4: [Description of Tool 4]
+- **Excel**: Utilized for data cleaning, formatting, and removal of duplicate values and strings.
+- **Tableau**: Employed for data visualization to derive insightful and actionable intelligence.
+
+## Author
+
+This project was solely developed by [Dexter.Cosmos]. If you have any questions or require further information, please feel free to reach out.
