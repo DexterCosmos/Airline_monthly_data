@@ -5,8 +5,11 @@
 This project involves comprehensive analysis of airline data, including airfare, departure, destination, source, date, time, and various other attributes. The primary objective is to derive meaningful insights and trends from the dataset to inform decisions and strategies in the airline industry.
 
 ## Dashboard
+The airline data dashboard offers a comprehensive overview of essential metrics and trends. The following screenshots illustrate the dashboard's functionality. Key features include:
 
-The dashboard provides an overview of key metrics and trends in the airline data. Below are some screenshots of the dashboard:
+:| Dynamic Interactivity: All graphs and components are fully interactive, ensuring a seamless user experience.
+:| Accurate Responses: The dashboard accurately responds to specific queries, providing precise data insights.
+:| Comprehensive Metrics: It covers all necessary metrics, presenting them in a clear and concise manner.
 
 <p align="center">
   <img src="images/Dashboard1.png" alt="Dashboard Screenshot 1" width="400" height="300">
